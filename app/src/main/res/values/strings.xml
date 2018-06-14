@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gym me</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">My Profile</string>
+    <string name="test_button">Test</string>
+    <string name="bench_press">Bench Press</string>
+    <string name="machine">Bench</string>
+    <string name="squat_rack">Squat Rack</string>
+    <string name="rower">Rower</string>
+    <string name="elliptical">Elliptical</string>
+    <string name="sac">SAC (Occupancy: 15)</string>
+    <string name="belk">Belk (Occupancy: 32)</string>
+
+</resources>
